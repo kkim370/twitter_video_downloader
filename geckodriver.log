@@ -1,0 +1,308 @@
+1691085780166	geckodriver	INFO	Listening on 127.0.0.1:60910
+1691085783208	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60911" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\COMPUT~1\\AppData\\Local\\Temp\\rust_mozprofilev0l4oQ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691085783505	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691085783560	Marionette	INFO	Listening on port 60920
+WebDriver BiDi listening on ws://127.0.0.1:60911
+Read port: 60920
+1691085783718	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60911/devtools/browser/2fc3af18-31f4-4181-8cfa-f530b5341757
+1691085792095	Marionette	INFO	Stopped listening on port 60920
+Dynamically enable window occlusion 1
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.69701b2a.js, line 74: TypeError: can't access dead object
+1694214413091	geckodriver	INFO	Listening on 127.0.0.1:62423
+1694214416129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62424" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\COMPUT~1\\AppData\\Local\\Temp\\rust_mozprofileficeg4"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694214416418	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694214416471	Marionette	INFO	Listening on port 62432
+WebDriver BiDi listening on ws://127.0.0.1:62424
+Read port: 62432
+1694214416613	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62424/devtools/browser/0f79ab49-a6aa-4417-8d1b-c0d9fcb81409
+1694214423544	Marionette	INFO	Stopped listening on port 62432
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/loaders.video.PlayerHls1.1.1e8e2d3a.js, line 253: Script terminated by timeout at:
+39008/e/./src/task-loop.ts/e.tick@https://abs.twimg.com/responsive-web/client-web/loaders.video.PlayerHls1.1.1e8e2d3a.js:253:946
+
+Dynamically enable window occlusion 1
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js, line 74: TypeError: can't access dead object
+1694214481744	geckodriver	INFO	Listening on 127.0.0.1:62511
+1694214484802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62512" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\COMPUT~1\\AppData\\Local\\Temp\\rust_mozprofilef4wjd1"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694214485017	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694214485063	Marionette	INFO	Listening on port 62519
+WebDriver BiDi listening on ws://127.0.0.1:62512
+Read port: 62519
+1694214485194	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62512/devtools/browser/e3aad6cc-14f3-4d9b-8cfe-83e1d82c95e1
+1694214492220	Marionette	INFO	Stopped listening on port 62519
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js, line 66: Script terminated by timeout at:
+Xt@https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js:66:23623
+
+Dynamically enable window occlusion 1
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js, line 74: TypeError: can't access dead object
+1694214589208	geckodriver	INFO	Listening on 127.0.0.1:62613
+1694214592264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62614" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\COMPUT~1\\AppData\\Local\\Temp\\rust_mozprofileq5gkCz"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694214592468	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694214592512	Marionette	INFO	Listening on port 62625
+WebDriver BiDi listening on ws://127.0.0.1:62614
+Read port: 62625
+1694214592634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62614/devtools/browser/df31b2bf-29b6-4941-81e6-55b53e2be48c
+1694214599983	Marionette	INFO	Stopped listening on port 62625
+JavaScript warning: https://twitter.com/twomad/status/1700061582745870813, line 152: Script terminated by timeout at:
+n@https://twitter.com/twomad/status/1700061582745870813:152:165163
+@https://abs.twimg.com/responsive-web/client-web/shared~ondemand.EmojiPickerData~ondemand.ParticipantReaction~ondemand.EmojiPicker.5c8b635a.js:1:102
+
+JavaScript error: https://twitter.com/twomad/status/1700061582745870813, line 152: ChunkLoadError: Loading chunk shared~ondemand.EmojiPickerData~ondemand.ParticipantReaction~ondemand.EmojiPicker failed.
+(missing: https://abs.twimg.com/responsive-web/client-web/shared~ondemand.EmojiPickerData~ondemand.ParticipantReaction~ondemand.EmojiPicker.5c8b635a.js)
+Dynamically enable window occlusion 1
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js, line 74: TypeError: can't access dead object
+1694214671268	geckodriver	INFO	Listening on 127.0.0.1:62738
+1694214674312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62739" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\COMPUT~1\\AppData\\Local\\Temp\\rust_mozprofileAicFEZ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694214674513	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694214674559	Marionette	INFO	Listening on port 62747
+WebDriver BiDi listening on ws://127.0.0.1:62739
+Read port: 62747
+1694214674684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62739/devtools/browser/9b228709-9cf5-49a9-b45f-37efb6ad8e52
+1694214682038	Marionette	INFO	Stopped listening on port 62747
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/loaders.video.PlayerHls1.1.1e8e2d3a.js, line 253: Script terminated by timeout at:
+39008/e/./src/task-loop.ts/e.tick@https://abs.twimg.com/responsive-web/client-web/loaders.video.PlayerHls1.1.1e8e2d3a.js:253:946
+
+Dynamically enable window occlusion 1
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js, line 74: TypeError: can't access dead object
+1694215488492	geckodriver	INFO	Listening on 127.0.0.1:61191
+1694215491550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61192" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\COMPUT~1\\AppData\\Local\\Temp\\rust_mozprofilebNOpTf"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694215491751	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694215491796	Marionette	INFO	Listening on port 61199
+WebDriver BiDi listening on ws://127.0.0.1:61192
+Read port: 61199
+1694215491917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61192/devtools/browser/d18fa232-8dc7-41b4-8fc4-a8b153677ed8
+1694215498690	Marionette	INFO	Stopped listening on port 61199
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/main.ace4234a.js, line 1: Script terminated by timeout at:
+89358/</</<@https://abs.twimg.com/responsive-web/client-web/main.ace4234a.js:1:960389
+
+Dynamically enable window occlusion 1
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js, line 74: TypeError: can't access dead object
+1694215526817	geckodriver	INFO	Listening on 127.0.0.1:61287
+1694215529874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61288" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\COMPUT~1\\AppData\\Local\\Temp\\rust_mozprofileLy3TlL"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694215530074	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694215530118	Marionette	INFO	Listening on port 61295
+WebDriver BiDi listening on ws://127.0.0.1:61288
+Read port: 61295
+1694215530241	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61288/devtools/browser/b5aa7386-5a06-419a-a5be-27bd270055a1
+1694215537290	Marionette	INFO	Stopped listening on port 61295
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/loaders.video.PlayerHls1.1.1e8e2d3a.js, line 253: Script terminated by timeout at:
+39008/e/./src/task-loop.ts/e.tick@https://abs.twimg.com/responsive-web/client-web/loaders.video.PlayerHls1.1.1e8e2d3a.js:253:946
+
+Dynamically enable window occlusion 1
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js, line 74: TypeError: can't access dead object
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694215551761	geckodriver	INFO	Listening on 127.0.0.1:61367
+1694215554805	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61368" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\COMPUT~1\\AppData\\Local\\Temp\\rust_mozprofileLH04EY"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694215555007	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694215555052	Marionette	INFO	Listening on port 61375
+WebDriver BiDi listening on ws://127.0.0.1:61368
+Read port: 61375
+1694215555176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61368/devtools/browser/0d9c5b37-d03b-4dd9-900a-a17d9b255c6b
+1694215562234	Marionette	INFO	Stopped listening on port 61375
+JavaScript warning: https://twitter.com/twomad/status/1700061582745870813, line 152: Script terminated by timeout at:
+n@https://twitter.com/twomad/status/1700061582745870813:152:165163
+@https://abs.twimg.com/responsive-web/client-web/shared~ondemand.EmojiPickerData~ondemand.ParticipantReaction~ondemand.EmojiPicker.5c8b635a.js:1:102
+
+JavaScript error: https://twitter.com/twomad/status/1700061582745870813, line 152: ChunkLoadError: Loading chunk shared~ondemand.EmojiPickerData~ondemand.ParticipantReaction~ondemand.EmojiPicker failed.
+(missing: https://abs.twimg.com/responsive-web/client-web/shared~ondemand.EmojiPickerData~ondemand.ParticipantReaction~ondemand.EmojiPicker.5c8b635a.js)
+Dynamically enable window occlusion 1
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js, line 74: TypeError: can't access dead object
+1694215732716	geckodriver	INFO	Listening on 127.0.0.1:61523
+1694215735764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61524" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\COMPUT~1\\AppData\\Local\\Temp\\rust_mozprofiledmFQlU"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694215735989	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694215736041	Marionette	INFO	Listening on port 61531
+WebDriver BiDi listening on ws://127.0.0.1:61524
+Read port: 61531
+1694215736189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61524/devtools/browser/76971f16-ce26-4246-851b-ae5fb3609a3c
+1694215743142	Marionette	INFO	Stopped listening on port 61531
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/main.ace4234a.js, line 1: Script terminated by timeout at:
+89358/</</<@https://abs.twimg.com/responsive-web/client-web/main.ace4234a.js:1:960389
+
+Dynamically enable window occlusion 1
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js, line 74: TypeError: can't access dead object
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694215772950	geckodriver	INFO	Listening on 127.0.0.1:61609
+1694215776018	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61610" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\COMPUT~1\\AppData\\Local\\Temp\\rust_mozprofileIfaMFg"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694215776223	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694215776269	Marionette	INFO	Listening on port 61617
+WebDriver BiDi listening on ws://127.0.0.1:61610
+Read port: 61617
+1694215776393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61610/devtools/browser/4aeb19ae-ac5c-452f-a980-525c952c1db4
+1694215783324	Marionette	INFO	Stopped listening on port 61617
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/loaders.video.PlayerHls1.1.1e8e2d3a.js, line 253: Script terminated by timeout at:
+39008/e/./src/task-loop.ts/e.tick@https://abs.twimg.com/responsive-web/client-web/loaders.video.PlayerHls1.1.1e8e2d3a.js:253:946
+
+Dynamically enable window occlusion 1
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js, line 74: TypeError: can't access dead object
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694215806129	geckodriver	INFO	Listening on 127.0.0.1:61693
+1694215809173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61694" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\COMPUT~1\\AppData\\Local\\Temp\\rust_mozprofile1q6UmE"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694215809384	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694215809434	Marionette	INFO	Listening on port 61701
+WebDriver BiDi listening on ws://127.0.0.1:61694
+Read port: 61701
+1694215809568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61694/devtools/browser/b4e39f22-dbab-44af-a30d-decbcc3fccc3
+1694215816013	Marionette	INFO	Stopped listening on port 61701
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/loaders.video.PlayerHls1.1.1e8e2d3a.js, line 253: Script terminated by timeout at:
+39008/e/./src/task-loop.ts/e.tick@https://abs.twimg.com/responsive-web/client-web/loaders.video.PlayerHls1.1.1e8e2d3a.js:253:946
+
+Dynamically enable window occlusion 1
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js, line 74: TypeError: can't access dead object
+1694215857107	geckodriver	INFO	Listening on 127.0.0.1:61778
+1694215860159	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61779" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\COMPUT~1\\AppData\\Local\\Temp\\rust_mozprofileCv4rbs"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694215860360	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694215860405	Marionette	INFO	Listening on port 61786
+WebDriver BiDi listening on ws://127.0.0.1:61779
+Read port: 61786
+1694215860531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61779/devtools/browser/dcd5ccae-0dff-48d5-b73d-ac4d16c2a98c
+1694215867615	Marionette	INFO	Stopped listening on port 61786
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/loaders.video.PlayerHls1.1.1e8e2d3a.js, line 253: Script terminated by timeout at:
+39008/e/./src/task-loop.ts/e.tick@https://abs.twimg.com/responsive-web/client-web/loaders.video.PlayerHls1.1.1e8e2d3a.js:253:946
+
+Dynamically enable window occlusion 1
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js, line 74: TypeError: can't access dead object
+1694215923078	geckodriver	INFO	Listening on 127.0.0.1:61873
+1694215926140	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61874" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\COMPUT~1\\AppData\\Local\\Temp\\rust_mozprofileBgtEKL"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694215926339	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694215926383	Marionette	INFO	Listening on port 61881
+WebDriver BiDi listening on ws://127.0.0.1:61874
+Read port: 61881
+1694215926506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61874/devtools/browser/5194092f-8484-4193-9f83-fad4c2f0644a
+1694215934270	Marionette	INFO	Stopped listening on port 61881
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js, line 66: Script terminated by timeout at:
+Xt@https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js:66:23623
+
+Dynamically enable window occlusion 1
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js, line 74: TypeError: can't access dead object
+1694216064476	geckodriver	INFO	Listening on 127.0.0.1:61986
+1694216067512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61987" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\COMPUT~1\\AppData\\Local\\Temp\\rust_mozprofileDq0xrB"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694216067715	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694216067759	Marionette	INFO	Listening on port 61995
+WebDriver BiDi listening on ws://127.0.0.1:61987
+Read port: 61995
+1694216067880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61987/devtools/browser/80af20bb-2023-4df7-9e57-c6bc85081beb
+1694216077205	Marionette	INFO	Stopped listening on port 61995
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/loaders.video.PlayerHls1.1.1e8e2d3a.js, line 253: Script terminated by timeout at:
+39008/e/./src/task-loop.ts/e.tick@https://abs.twimg.com/responsive-web/client-web/loaders.video.PlayerHls1.1.1e8e2d3a.js:253:946
+
+Dynamically enable window occlusion 1
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js, line 74: TypeError: can't access dead object
+1694216101200	geckodriver	INFO	Listening on 127.0.0.1:62080
+1694216104257	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62081" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\COMPUT~1\\AppData\\Local\\Temp\\rust_mozprofile22xr28"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694216104463	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694216104507	Marionette	INFO	Listening on port 62088
+WebDriver BiDi listening on ws://127.0.0.1:62081
+Read port: 62088
+1694216104630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62081/devtools/browser/216d6231-010c-40c7-a73d-82ca3a893ae3
+1694216114215	Marionette	INFO	Stopped listening on port 62088
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js, line 66: Script terminated by timeout at:
+xe@https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js:66:14696
+Jt@https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js:66:24246
+Xt@https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js:66:23716
+
+Dynamically enable window occlusion 1
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.e4ea7aea.js, line 74: TypeError: can't access dead object
